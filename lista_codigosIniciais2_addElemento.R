@@ -1,0 +1,6 @@
+lista <- list("Maria", 22L) 
+print(lista[1])
+print(lista[2])
+lista2 <- append(lista,"RG=123321")
+print(lista2)
+print(length(lista2))
